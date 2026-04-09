@@ -1,4 +1,4 @@
-# 👋 Hello! I'm Ngô Giochiều
+# Ng Ngoc Hieu
 
 **AI Engineer | Machine Learning Developer | Computer Vision Specialist**
 
