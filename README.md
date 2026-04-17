@@ -1,10 +1,5 @@
 #
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Nguyen%20Ngoc%20Hieu&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%7C%20Computer%20Vision%20Engineer%20%7C%20IT%20Student&descAlignY=55)
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=800&color=6BBAFF&center=true&vCenter=true&width=650&lines=AI+%26+Computer+Vision+Developer;YOLOv8+%7C+PyTorch+%7C+OpenCV;Real-time+AI+Systems+(25-30+FPS);Building+Practical+AI+Applications;Always+learning+%26+shipping+projects" />
-</p>
-
 <p align="center">
   <a href="mailto:bimax12052005@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/ngoc-hieu-ng-b6b756281/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
