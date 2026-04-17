@@ -167,10 +167,6 @@ open_to    : Internship · Collaboration · AI Projects
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ngngochieuu05&amp;theme=tokyonight&amp;hide_border=true" alt="Streak Stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ngngochieuu05&amp;theme=tokyonight&amp;no-frame=true&amp;row=1&amp;column=6&amp;margin-w=8" alt="Trophies" />
-</p>
-
 ---
 
 ## 📈 Contribution Activity
