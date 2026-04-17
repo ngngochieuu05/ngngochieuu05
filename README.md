@@ -1,132 +1,154 @@
-<h1 align="center">Xin chào, mình là Nguyễn Ngọc Hiếu 👋</h1>
+#
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Nguyen%20Ngoc%20Hieu&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%7C%20Computer%20Vision%20Engineer%20%7C%20IT%20Student&descAlignY=55)
 
 <p align="center">
-  <em>IT Student @ HUTECH &nbsp;·&nbsp; AI & Computer Vision Enthusiast &nbsp;·&nbsp; Building smart solutions with Python & YOLO</em>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=800&color=6BBAFF&center=true&vCenter=true&width=650&lines=AI+%26+Computer+Vision+Developer;YOLOv8+%7C+PyTorch+%7C+OpenCV;Real-time+AI+Systems+(25-30+FPS);Building+Practical+AI+Applications;Always+learning+%26+shipping+projects" />
 </p>
 
 <p align="center">
-  <a href="mailto:bimax12052005@gmail.com">
-    <img src="https://img.shields.io/badge/-Sẵn%20sàng%20làm%20việc-brightgreen?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/ngoc-hieu-ng-b6b756281/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/ngngochieuu05">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  <a href="mailto:bimax12052005@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/ngoc-hieu-ng-b6b756281/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/ngngochieuu05"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
 
-## 💫 Về mình
+## 🧑‍💻 About Me
 
-- 🎓 Sinh viên Công nghệ Thông tin tại **HUTECH**
-- 📍 Đang sống tại: **Biên Hòa, Đồng Nai**
-- 💡 Đam mê: **Trí tuệ nhân tạo · Computer Vision · Xây dựng ứng dụng thực tế**
-- 📧 Liên hệ: [bimax12052005@gmail.com](mailto:bimax12052005@gmail.com)
-- 🌐 Portfolio: [ngngochieu.github.io](https://ngngochieuu05.github.io/ngngochieu.github.io/)
-
----
-
-## 🛠️ Kỹ năng công nghệ
-
-**Ngôn ngữ lập trình**
-
-![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-333?style=flat&logo=openjdk&logoColor=white)
-![C/C++](https://img.shields.io/badge/-C%2FC%2B%2B-333?style=flat&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-333?style=flat&logo=csharp&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-333?style=flat&logo=postgresql&logoColor=white)
-
-**AI / Computer Vision**
-
-![YOLOv8](https://img.shields.io/badge/-YOLOv8-333?style=flat&logo=yolo&logoColor=white)
-![CNN](https://img.shields.io/badge/-CNN-333?style=flat&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/-OpenCV-333?style=flat&logo=opencv&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-333?style=flat&logo=pytorch&logoColor=white)
-![Ultralytics](https://img.shields.io/badge/-Ultralytics-333?style=flat&logo=python&logoColor=white)
-![ONNX Runtime](https://img.shields.io/badge/-ONNX%20Runtime-333?style=flat&logo=onnx&logoColor=white)
-
-**Frameworks & Tools**
-
-![Flet](https://img.shields.io/badge/-Flet-333?style=flat&logo=flutter&logoColor=white)
-![.NET](https://img.shields.io/badge/-.NET-333?style=flat&logo=dotnet&logoColor=white)
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-333?style=flat&logo=microsoftsqlserver&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-333?style=flat&logo=visualstudiocode&logoColor=white)
-![Cisco](https://img.shields.io/badge/-Cisco%20Packet%20Tracer-333?style=flat&logo=cisco&logoColor=white)
+```yaml
+name       : Nguyen Ngoc Hieu
+location   : Bien Hoa, Dong Nai, Vietnam 🇻🇳
+education  : Information Technology @ HUTECH University
+focus      : AI · Computer Vision · Edge Computing
+stack      : Python · C# · YOLOv8 · PyTorch · OpenCV · Flet · .NET
+hobbies    : Building AI apps, exploring new tech, coffee ☕
+open_to    : Internship · Collaboration · AI Projects
+```
 
 ---
 
-## 🚀 Dự án nổi bật
+## 🛠️ Tech Stack
+
+<p align="center">
+  <strong>Languages</strong><br/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&amp;logo=csharp&amp;logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="SQL" />
+</p>
+
+<p align="center">
+  <strong>AI / Computer Vision</strong><br/>
+  <img src="https://img.shields.io/badge/YOLOv8-111111?style=for-the-badge&amp;logo=yolo&amp;logoColor=white" alt="YOLOv8" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&amp;logo=pytorch&amp;logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&amp;logo=opencv&amp;logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/ONNX_Runtime-005CED?style=for-the-badge&amp;logo=onnx&amp;logoColor=white" alt="ONNX Runtime" />
+</p>
+
+<p align="center">
+  <strong>Frameworks and Tools</strong><br/>
+  <img src="https://img.shields.io/badge/Flet-0468D7?style=for-the-badge&amp;logo=flutter&amp;logoColor=white" alt="Flet" />
+  <img src="https://img.shields.io/badge/.NET_6-512BD4?style=for-the-badge&amp;logo=dotnet&amp;logoColor=white" alt=".NET 6" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&amp;logo=microsoftsqlserver&amp;logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&amp;logo=visualstudiocode&amp;logoColor=white" alt="VS Code" />
+</p>
+
+---
+
+## 🚀 Featured Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🐄 <a href="https://github.com/ngngochieuu05/Con_Bo_Cuoi">Con Bò Cười</a></h3>
-      <p>Ứng dụng cross-platform giám sát đàn bò thời gian thực bằng AI. Tự động phát hiện bò, nhận diện hành vi bất thường, cảnh báo bệnh sớm và kết nối nông dân với chuyên gia thú y.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-333?style=flat&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Flet-333?style=flat&logo=flutter&logoColor=white" />
-        <img src="https://img.shields.io/badge/YOLOv8-333?style=flat&logo=yolo&logoColor=white" />
-        <img src="https://img.shields.io/badge/OpenCV-333?style=flat&logo=opencv&logoColor=white" />
-        <img src="https://img.shields.io/badge/PostgreSQL-333?style=flat&logo=postgresql&logoColor=white" />
+      <h3 align="center">🐄 Con Bo Cuoi — Smart Cattle Monitor</h3>
+      <div align="center">
+        <a href="https://github.com/ngngochieuu05/Con_Bo_Cuoi">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ngngochieuu05&amp;repo=Con_Bo_Cuoi&amp;theme=tokyonight&amp;hide_border=true" alt="Con Bo Cuoi" />
+        </a>
+      </div>
+      <p align="center">Real-time cattle monitoring — detects abnormal behavior, early disease alerts, and connects farmers with veterinarians via a cross-platform app.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/YOLOv8-111?style=flat-square&amp;logo=yolo&amp;logoColor=white" alt="YOLOv8" />
+        <img src="https://img.shields.io/badge/Flet-0468D7?style=flat-square&amp;logo=flutter&amp;logoColor=white" alt="Flet" />
+        <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL" />
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🚗 <a href="https://github.com/ngngochieuu05/He_thong_giam_sat_lai_xe">Giám Sát Lái Xe Thông Minh</a></h3>
-      <p>Theo dõi hành vi người lái thời gian thực (30 FPS). Phát hiện mất tập trung, buồn ngủ, dùng điện thoại. Đăng nhập bằng Face ID (ArcFace), chatbot hỗ trợ, xuất báo cáo PDF/Excel.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-333?style=flat&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/YOLOv8-333?style=flat&logo=yolo&logoColor=white" />
-        <img src="https://img.shields.io/badge/ArcFace-333?style=flat&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/ONNX-333?style=flat&logo=onnx&logoColor=white" />
-        <img src="https://img.shields.io/badge/OpenCV-333?style=flat&logo=opencv&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🚦 <a href="https://github.com/ngngochieuu05/BCCK_Nhom3_TrafficMonitorApp">TrafficMonitorApp</a></h3>
-      <p>Ứng dụng Windows Forms (.NET 6) giám sát giao thông bằng AI. Đếm & phân loại phương tiện, hai chế độ Line Crossing & Zone Detection, cảnh báo tắc nghẽn, xuất báo cáo Excel.</p>
-      <p>
-        <img src="https://img.shields.io/badge/C%23-333?style=flat&logo=csharp&logoColor=white" />
-        <img src="https://img.shields.io/badge/.NET%206-333?style=flat&logo=dotnet&logoColor=white" />
-        <img src="https://img.shields.io/badge/YOLOv8-333?style=flat&logo=yolo&logoColor=white" />
-        <img src="https://img.shields.io/badge/ONNX-333?style=flat&logo=onnx&logoColor=white" />
-        <img src="https://img.shields.io/badge/SQL%20Server-333?style=flat&logo=microsoftsqlserver&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🥔 <a href="https://github.com/ngngochieuu05/POTATO_COUTER_APP">Potato Counter App</a></h3>
-      <p>AI tự động đếm và phân loại chất lượng khoai tây (Tốt/Kém) trên dây chuyền sản xuất. YOLOv8 phát hiện, ResNet50 phân loại (~95% accuracy), 25–30 FPS, xuất báo cáo PDF/Excel.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-333?style=flat&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/PyTorch-333?style=flat&logo=pytorch&logoColor=white" />
-        <img src="https://img.shields.io/badge/YOLOv8-333?style=flat&logo=yolo&logoColor=white" />
-        <img src="https://img.shields.io/badge/ResNet50-333?style=flat&logo=tensorflow&logoColor=white" />
-        <img src="https://img.shields.io/badge/OpenCV-333?style=flat&logo=opencv&logoColor=white" />
+      <h3 align="center">🚗 Smart Driver Monitor</h3>
+      <div align="center">
+        <a href="https://github.com/ngngochieuu05/He_thong_giam_sat_lai_xe">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ngngochieuu05&amp;repo=He_thong_giam_sat_lai_xe&amp;theme=tokyonight&amp;hide_border=true" alt="Smart Driver Monitor" />
+        </a>
+      </div>
+      <p align="center">Real-time driver tracking at 30 FPS — detects drowsiness, distraction and phone use. Secure Face ID login (ArcFace) + PDF/Excel report export.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/YOLOv8-111?style=flat-square&amp;logo=yolo&amp;logoColor=white" alt="YOLOv8" />
+        <img src="https://img.shields.io/badge/ArcFace-6D4C41?style=flat-square&amp;logo=python&amp;logoColor=white" alt="ArcFace" />
+        <img src="https://img.shields.io/badge/ONNX-005CED?style=flat-square&amp;logo=onnx&amp;logoColor=white" alt="ONNX" />
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>👁️ <a href="https://github.com/ngngochieuu05/He_Thong_Giam_Sat_Hanh_Vi_Vi_Pham_Tai_Noi_Lam_Viec-Cruel-boss-">Cruel Boss — Giám Sát Nơi Làm Việc</a></h3>
-      <p>Hệ thống AI phát hiện hành vi vi phạm tại nơi làm việc (ngủ gật, dùng điện thoại, vắng mặt...) qua camera thời gian thực. Cảnh báo tự động và lưu lịch sử vi phạm.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-333?style=flat&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/YOLO-333?style=flat&logo=yolo&logoColor=white" />
-        <img src="https://img.shields.io/badge/OpenCV-333?style=flat&logo=opencv&logoColor=white" />
+      <h3 align="center">🚦 TrafficMonitorApp</h3>
+      <div align="center">
+        <a href="https://github.com/ngngochieuu05/BCCK_Nhom3_TrafficMonitorApp">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ngngochieuu05&amp;repo=BCCK_Nhom3_TrafficMonitorApp&amp;theme=tokyonight&amp;hide_border=true" alt="TrafficMonitorApp" />
+        </a>
+      </div>
+      <p align="center">AI-powered traffic monitoring on Windows Forms (.NET 6). Vehicle counting and classification, Line Crossing / Zone Detection, congestion alerts, real-time charts.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&amp;logo=csharp&amp;logoColor=white" alt="C#" />
+        <img src="https://img.shields.io/badge/.NET_6-512BD4?style=flat-square&amp;logo=dotnet&amp;logoColor=white" alt=".NET 6" />
+        <img src="https://img.shields.io/badge/YOLOv8-111?style=flat-square&amp;logo=yolo&amp;logoColor=white" alt="YOLOv8" />
+        <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&amp;logo=microsoftsqlserver&amp;logoColor=white" alt="SQL Server" />
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>📚 <a href="https://github.com/ngngochieuu05/App_Ho_Tro_Hoc_Tieng_Anh">Ứng Dụng Học Tiếng Anh</a></h3>
-      <p>Ứng dụng học tiếng Anh cho người Việt, hỗ trợ cải thiện kỹ năng nghe – nói – đọc – viết một cách tương tác. Chạy được trên cả Desktop lẫn Web.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-333?style=flat&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Flet%200.28.3-333?style=flat&logo=flutter&logoColor=white" />
-        <img src="https://img.shields.io/badge/Desktop%20%2B%20Web-333?style=flat&logo=googlechrome&logoColor=white" />
+      <h3 align="center">🥔 Potato Counter App</h3>
+      <div align="center">
+        <a href="https://github.com/ngngochieuu05/POTATO_COUTER_APP">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ngngochieuu05&amp;repo=POTATO_COUTER_APP&amp;theme=tokyonight&amp;hide_border=true" alt="Potato Counter App" />
+        </a>
+      </div>
+      <p align="center">Automatically counts and classifies potato quality (Good/Bad) on a production line. YOLOv8 + ResNet50 (~95% accuracy), 25-30 FPS, PDF/Excel reporting.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&amp;logo=pytorch&amp;logoColor=white" alt="PyTorch" />
+        <img src="https://img.shields.io/badge/ResNet50-FF6F00?style=flat-square&amp;logo=tensorflow&amp;logoColor=white" alt="ResNet50" />
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&amp;logo=opencv&amp;logoColor=white" alt="OpenCV" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">👁️ Cruel Boss — Workplace Behavior Monitor</h3>
+      <div align="center">
+        <a href="https://github.com/ngngochieuu05/He_Thong_Giam_Sat_Hanh_Vi_Vi_Pham_Tai_Noi_Lam_Viec-Cruel-boss-">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ngngochieuu05&amp;repo=He_Thong_Giam_Sat_Hanh_Vi_Vi_Pham_Tai_Noi_Lam_Viec-Cruel-boss-&amp;theme=tokyonight&amp;hide_border=true" alt="Cruel Boss" />
+        </a>
+      </div>
+      <p align="center">Detects workplace violations via real-time camera — sleeping, phone use, absence. Automatic alerts and violation history logging.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/YOLO-111?style=flat-square&amp;logo=yolo&amp;logoColor=white" alt="YOLO" />
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&amp;logo=opencv&amp;logoColor=white" alt="OpenCV" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">📚 English Learning App</h3>
+      <div align="center">
+        <a href="https://github.com/ngngochieuu05/App_Ho_Tro_Hoc_Tieng_Anh">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ngngochieuu05&amp;repo=App_Ho_Tro_Hoc_Tieng_Anh&amp;theme=tokyonight&amp;hide_border=true" alt="English Learning App" />
+        </a>
+      </div>
+      <p align="center">Interactive English learning app for Vietnamese learners — improves listening, speaking, reading and writing. Runs on Desktop + Web via Flet.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/Flet_0.28.3-0468D7?style=flat-square&amp;logo=flutter&amp;logoColor=white" alt="Flet" />
+        <img src="https://img.shields.io/badge/Desktop%20%2B%20Web-4285F4?style=flat-square&amp;logo=googlechrome&amp;logoColor=white" alt="Desktop + Web" />
       </p>
     </td>
   </tr>
@@ -134,33 +156,27 @@
 
 ---
 
-## 📊 Thống kê GitHub
+## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ngngochieuu05&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngngochieuu05&layout=compact&theme=dark&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ngngochieuu05&amp;show_icons=true&amp;theme=tokyonight&amp;include_all_commits=true&amp;count_private=true&amp;hide_border=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngngochieuu05&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=8" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ngngochieuu05&theme=onedark&row=1&column=6&no-frame=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ngngochieuu05&amp;theme=tokyonight&amp;hide_border=true" alt="Streak Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ngngochieuu05&theme=dark&hide_border=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ngngochieuu05&amp;theme=tokyonight&amp;no-frame=true&amp;row=1&amp;column=6&amp;margin-w=8" alt="Trophies" />
 </p>
 
 ---
 
-## 🌐 Kết nối với mình
+## 📈 Contribution Activity
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/ngoc-hieu-ng-b6b756281/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:bimax12052005@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/ngngochieuu05">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ngngochieuu05&amp;theme=tokyo-night&amp;hide_border=true&amp;area=true" alt="Activity Graph" />
 </p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=120&amp;section=footer&amp;animation=twinkling" />
